@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "<ipython-input-11-b6916c87ae87>", line 16, in <module>
+    win32gui.SetForegroundWindow(i[0])
+error: (5, 'SetForegroundWindow', 'Access is denied.')
